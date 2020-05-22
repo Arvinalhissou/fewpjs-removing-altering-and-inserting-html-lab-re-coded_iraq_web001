@@ -4,4 +4,4 @@ element.removeChild(document.querySelector("main#main"))
 
 let newHeader=document.querySelector("h1#victory")
 
-newHeader.innerHTML='is the champion'
+newHeader.innerHTML='is the champion';
